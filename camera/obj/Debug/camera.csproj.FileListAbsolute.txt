@@ -1,0 +1,15 @@
+c:\users\amr\documents\visual studio 2017\Projects\camera\camera\bin\Debug\camera.exe.config
+c:\users\amr\documents\visual studio 2017\Projects\camera\camera\bin\Debug\camera.exe
+c:\users\amr\documents\visual studio 2017\Projects\camera\camera\bin\Debug\camera.pdb
+c:\users\amr\documents\visual studio 2017\Projects\camera\camera\bin\Debug\AForge.dll
+c:\users\amr\documents\visual studio 2017\Projects\camera\camera\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\amr\documents\visual studio 2017\Projects\camera\camera\bin\Debug\AForge.Video.dll
+c:\users\amr\documents\visual studio 2017\Projects\camera\camera\bin\Debug\AForge.xml
+c:\users\amr\documents\visual studio 2017\Projects\camera\camera\bin\Debug\AForge.Video.xml
+c:\users\amr\documents\visual studio 2017\Projects\camera\camera\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\amr\documents\visual studio 2017\Projects\camera\camera\obj\Debug\camera.csprojResolveAssemblyReference.cache
+c:\users\amr\documents\visual studio 2017\Projects\camera\camera\obj\Debug\camera.Form1.resources
+c:\users\amr\documents\visual studio 2017\Projects\camera\camera\obj\Debug\camera.Properties.Resources.resources
+c:\users\amr\documents\visual studio 2017\Projects\camera\camera\obj\Debug\camera.csproj.GenerateResource.Cache
+c:\users\amr\documents\visual studio 2017\Projects\camera\camera\obj\Debug\camera.exe
+c:\users\amr\documents\visual studio 2017\Projects\camera\camera\obj\Debug\camera.pdb
